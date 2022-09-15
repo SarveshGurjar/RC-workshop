@@ -1,0 +1,2 @@
+
+distinctelement(A, n1)
